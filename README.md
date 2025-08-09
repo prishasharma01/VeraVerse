@@ -24,7 +24,7 @@
 - **Integration with additional AI models** for better content customization.
 - **User-generated templates** for faster content creation.
 - **Advanced analytics dashboard** to track AI-generated content performance.
-- **Collaboration features** for team-based content creation.
+- **Collaboration features** for team-based content creation
 
 
 <!-- npm install @clerk/themes --legacy-peer-deps
